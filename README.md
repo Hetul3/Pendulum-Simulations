@@ -8,4 +8,4 @@ One shows off chaos theory and how it pertains to double pendulums, showing how 
 One shows and compares the motion and trajectory laid out by a single and double pendulum.
 <br/>
 <br/>
-One shows off the ending animation of Think Twice's video with only the endpoints of the multiple double pendulums present.
+One shows off the ending animation of Think Twice's video of only the endpoints of the multiple double pendulums visible.
